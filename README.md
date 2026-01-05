@@ -7,6 +7,15 @@ DB 설계를 MySQL로 구현하고, C#과 WinForms를 통해 데이터를 시각
 - **목적:** 데이터 간의 무결성을 유지하며, 영화 상영 일정 및 좌석 예약 프로세스를 자동화하는 백엔드 로직 설계
 - **핵심 기능:** 데이터 적재 자동화 알고리즘, 다중 조인을 활용한 정보 추출과 자원 검증, 동적 좌석 생성
 
+## 시연 영상
+[![Video Label](https://img.youtube.com/vi/영상ID/0.jpg)]
+
+## 기술 스택
+- **Language:** C# (.NET Framework)
+- **Framework:** Windows Forms (WinForms)
+- **RDBMS:** MySQL
+- **Tool:** MySQL Workbench
+
 ## 데이터베이스 설계
 
 ```mermaid
