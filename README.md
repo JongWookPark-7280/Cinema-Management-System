@@ -8,7 +8,7 @@ DB 설계를 MySQL로 구현하고, C#과 WinForms를 통해 데이터를 시각
 - **핵심 기능:** 데이터 적재 자동화 알고리즘, 다중 조인을 활용한 정보 추출과 자원 검증, 동적 좌석 생성
 
 ## 시연 영상
-[![Video Label](https://img.youtube.com/vi/영상ID/0.jpg)]
+[유튜브 링크](https://youtu.be/IWMYghD7OzY)
 
 ## 기술 스택
 - **Language:** C# (.NET Framework)
